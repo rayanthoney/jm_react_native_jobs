@@ -51,7 +51,7 @@ Here's where you can go to town on how you actually built this thing. Write as m
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vite,threejs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react" />
   </a>
 </p>
 
@@ -63,10 +63,16 @@ Here's where you can go to town on how you actually built this thing. Write as m
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
-## 🚀 How to use
+## Scaffolding Your First Vite Project with React
 
-```sh
-npx create-react-native-app -t with-router
+```terminal
+ > npx create-expo-app@latest -e with-router ./
+```
+
+## Installing Your Packages
+
+```terminal
+  > npm install expo-font axios react-native-dotenv
 ```
 
 ## 📝 Notes
