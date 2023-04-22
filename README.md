@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 
-# 🛠️ ThreeJS 3D AI Web Design
+# 🛠️ React Native App
 
 <!-- ![alt tag](https://picsum.photos/600/300) -->
 
